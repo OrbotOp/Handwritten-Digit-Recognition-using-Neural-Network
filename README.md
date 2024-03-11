@@ -14,9 +14,3 @@ Utilizes a three-layer neural network: an input layer, a hidden layer with 100 a
 ## Running the Project
 1. Run `Main.py` to start the recognition system.
 2. Use the GUI to input handwritten digits for recognition.
-
-## Contributions
-Guidelines for contributing to the project.
-
-## License
-Specify the license under which the project is released.
